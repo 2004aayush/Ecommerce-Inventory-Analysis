@@ -1,24 +1,64 @@
-E-Commerce Inventory Analysis
+# 🛍️ E-Commerce Inventory Analysis
 
-This is a simple data analysis project I built to understand inventory distribution and identify low stock products using Python, SQL, and Power BI.
+## 📌 Overview
 
-What it does
-Analyzes stock distribution across different categories
-Shows size-wise and color-wise stock trends
-Identifies low stock products for restocking
-Displays top products with highest stock
+This project analyzes e-commerce inventory data to understand stock distribution and identify low stock products.
 
-How it works
-The program cleans the dataset using Pandas, stores it in SQLite, and performs analysis using SQL queries.
-The results are visualized using Power BI dashboards.
+---
 
-What I learned
-Data cleaning using Pandas
-Working with SQL (SQLite)
-Creating interactive dashboards in Power BI
-Basic data analysis and visualization
+## 🧰 Tools Used
 
-Future improvements
-Add sales data for deeper analysis
-Create advanced KPIs and metrics
-Improve dashboard design and interactivity
+* Python (Pandas)
+* SQLite (SQL)
+* Power BI
+
+---
+
+## 📊 Analysis
+
+* Category-wise stock
+* Size distribution
+* Top colors
+* Low stock (restocking)
+* Top products
+
+---
+
+## 📈 Dashboard
+
+Includes:
+
+* Category, Size, Color charts
+* Low stock table
+* KPI cards
+
+---
+
+## 🔍 Key Insights
+
+* Kurta has highest stock
+* S & M sizes dominate
+* Black, Pink, Blue are top colors
+* Low stock items need restocking
+
+---
+
+## 📂 Files
+
+* `cleaned_data.csv`
+* `main.py`
+* `project.pbix`
+
+---
+
+## 🚀 Run
+
+```bash
+python main.py
+```
+
+---
+
+## 👨‍💻 Author
+
+* AAYUSH ADEY
